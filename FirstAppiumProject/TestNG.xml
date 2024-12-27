@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Assignment Suite">
+
+    <test name = "Testing Flows">
+        <classes>
+            <class name="testcases.Task2Scenario1">
+            </class>
+<!--                <methods>-->
+<!--                    <include name="clickContinueButton"/>-->
+<!--                    <include name="clickOkButton"/>-->
+<!--                    <include name="clickWarpOption"/>-->
+
+<!--                </methods>-->
+<!--            </class>-->
+<!--            <class name="testcases.ScrollAndroidTest">-->
+<!--                <methods>-->
+<!--                    <include name="scrollAndSelectCountry"/>-->
+<!--                    <include name="scrollDown"/>-->
+<!--                </methods>-->
+<!--&lt;!&ndash;          </class>-->
+        </classes>
+    </test>
+</suite>
